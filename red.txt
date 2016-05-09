@@ -1,1 +1,8 @@
 'hry is me'
+'git add all' for every file u want to add
+'git add [file name] ' to add a specific 
+'git config --global --edit'  to edit configuration file
+'git commit --amend --reset-author' to fix the identity used for this commit
+esc :wq! then press enter
+
+commands to enter in nanao for unix this is super cool
